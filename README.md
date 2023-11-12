@@ -1,1 +1,1 @@
-Bu uygulamada bulanık mantık yöntemleri kullanrak sıcaklık ve basınç değerlerine göre gazlı içeceklerin karbondioksit miktarlarını hesapladık. 
+Bu uygulamada bulanık mantık yöntemleri kullanrak sıcaklık ve basınç değerlerine göre gazlı içeceklerin karbondioksit miktarlarını hesapladık. Python ile yazdığımız bu projede skfuzzy kütüphanesini kullandık.
